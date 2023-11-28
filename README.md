@@ -73,6 +73,7 @@ Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti
   - [Awesome LLMs](https://github.com/Hannibal046/Awesome-LLM)
   - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
   - [Papers with code](https://paperswithcode.com/)
+  - [Distill.pub](https://distill.pub/)
 - [HackerNews](https://news.ycombinator.com)
 
 ### Blogs and newletters
