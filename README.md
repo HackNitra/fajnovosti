@@ -8,19 +8,15 @@
 Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti/pulls) 🙌
 
 
-### Lokálne 🇸🇰 🇨🇿
+## Lokálne 🇸🇰 🇨🇿
 
 #### Meetupy
 - [Better AI meetup](https://betteraimeetup.com/)
 - [Bratislava Python Meetup](https://www.meetup.com/pyconsk/) and [Pyladies BA](https://www.meetup.com/pyladies-bratislava/events/297258912/)
 
-#### Komunity, inštitúty, neziskovky
 
-- [Slovensko.digital](https://slovensko.digital/)
-- [Kempelenov inštitút inteligentných technológií](https://kinit.sk/sk)
-- [Teach for Slovakia](https://teach.sk/cim-zijeme)
-- [LEAF](https://www.leaf.sk/)
-- [Fond Otakara Motejla](https://osf.cz/category/fond-otakara-motejla/)
+#### Blogy a newslettery
+- [Report MD](https://substack.com/@havran)
 
 
 #### Podcasty
@@ -33,6 +29,17 @@ Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti
 - [Dejepis inak](https://skpodcasty.sk/podcasty/dejepis-inak/)
 - [Michal Truban Podcast](https://skpodcasty.sk/podcasty/michal-truban-podcast/)
 - [Rozhovory MD](https://skpodcasty.sk/podcasty/rozhovory-md/)
+
+
+
+#### Komunity, inštitúty, neziskovky
+
+- [Slovensko.digital](https://slovensko.digital/)
+- [Kempelenov inštitút inteligentných technológií](https://kinit.sk/sk)
+- [Teach for Slovakia](https://teach.sk/cim-zijeme)
+- [LEAF](https://www.leaf.sk/)
+- [Fond Otakara Motejla](https://osf.cz/category/fond-otakara-motejla/)
+
 
 
 #### Kurzy
@@ -61,20 +68,29 @@ Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti
 - [Sphere](https://www.nextech.sk/a/Velky-uspech--Slovak-predal-svoj-startup-Sphere-spolocnosti-Twitter)
 - [Exponea](https://www.forbes.sk/exponea-je-v-novych-rukach-ivana-chrenka-ako-vacsinoveho-majitela-nahradi-americky-bloomreach/)
 
-### Globálne
+## Global 🇺🇸
 - [Start here for awesome](https://github.com/sindresorhus/awesome/tree/main)
   - [Awesome LLMs](https://github.com/Hannibal046/Awesome-LLM)
   - [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
   - [Papers with code](https://paperswithcode.com/)
 - [HackerNews](https://news.ycombinator.com)
 
-#### Podcasty
+### Blogs and newletters
+
+- [The Sequence of AI knowledge](https://thesequence.substack.com/)
+- [Pragmatic engineer](https://newsletter.pragmaticengineer.com/)
+- [Modern Data Stack newsletter](https://letters.moderndatastack.xyz/)
+- [AI-ronman](https://ai-ronman-newsletter-1eaf90.beehiiv.com/)
+- [Turing post](https://www.turingpost.com/)
+
+
+#### Podcasts
 - [Lenny's podcast](https://www.lennyspodcast.com/)
 - [Reforge podcast](https://www.reforge.com/podcast/unsolicited-feedback)
 - [Naked Data science](https://www.nds.show/)
 - [datatalks.club](https://datatalks.club/)
 
-#### Komunity
+#### Communities
 - [Locally optimistic](https://locallyoptimistic.com/community/)
 - [dbt community](https://www.getdbt.com/community)
 - [Great expectations](https://greatexpectations.io/community)
