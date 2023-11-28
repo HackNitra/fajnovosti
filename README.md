@@ -34,6 +34,10 @@ Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti
 - [Rozhovory MD](https://skpodcasty.sk/podcasty/rozhovory-md/)
 
 
+#### Kurzy
+
+- [Elements of AI](https://www.elementsofai.sk/)
+
 #### Hackathony
 
 - [Hack Slovakia](https://hackslovakia.com) a [Hack Košice](https://hackkosice.com)
