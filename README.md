@@ -10,12 +10,13 @@ Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti
 
 ### Lokálne 🇸🇰 🇨🇿
 
-
+#### Meetupy
+- [Better AI meetup](https://betteraimeetup.com/)
+- [Bratislava Python Meetup](https://www.meetup.com/pyconsk/) and [Pyladies BA](https://www.meetup.com/pyladies-bratislava/events/297258912/)
 
 #### Komunity, inštitúty, neziskovky
 
 - [Slovensko.digital](https://slovensko.digital/)
-- [Bratislava Python Meetup](https://www.meetup.com/pyconsk/) and [Pyladies BA](https://www.meetup.com/pyladies-bratislava/events/297258912/)
 - [Kempelenov inštitút inteligentných technológií](https://kinit.sk/sk)
 - [Teach for Slovakia](https://teach.sk/cim-zijeme)
 - [LEAF](https://www.leaf.sk/)
