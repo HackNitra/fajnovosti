@@ -101,3 +101,9 @@ Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti
 - [dbt community](https://www.getdbt.com/community)
 - [Great expectations](https://greatexpectations.io/community)
 - [Data quality camp](https://substack.com/@dataqualitycamp)
+
+
+#### Advent of Code
+- [Advent of Code 2023](https://adventofcode.com/)
+
+  
