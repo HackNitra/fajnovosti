@@ -31,6 +31,7 @@ Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti
 - [Michal Truban Podcast](https://skpodcasty.sk/podcasty/michal-truban-podcast/)
 - [Rozhovory MD](https://skpodcasty.sk/podcasty/rozhovory-md/)
 - [Vedátorský podcast](https://skpodcasty.sk/podcasty/vedatorsky-podcast/)
+- [FIITCAST](https://skpodcasty.sk/podcasty/fiitcast/)
 
 
 #### Komunity, inštitúty, neziskovky
