@@ -44,7 +44,7 @@ Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti
 - [Fond Otakara Motejla](https://osf.cz/category/fond-otakara-motejla/)
 - [Paralelná Polis Bratislava](https://paralelnapolis.sk/)
 - [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/)
-
+- [Slovenská Debatná Asociácia](https://linktr.ee/realSDA?fbclid=PAAaaAiNTmPuJHQyN_4z5O1EOQNbJpkf5fhZ1UvDTzxgCpKsNiao_mc3w_xZc_aem_AQyXARmABNZJwaJbxThTqWePCtVqL104GodJ1mdta6K1i3-9yGGMgtEdTx3gj79lox0)
 
 
 #### Kurzy
