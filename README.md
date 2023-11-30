@@ -18,6 +18,7 @@ Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti
 #### Blogy a newslettery
 - [Report MD](https://substack.com/@havran)
 - [Vedátor](https://vedator.space/)
+- [Juraj Bednar](https://juraj.bednar.io/blog/)
 
 
 #### Podcasty
