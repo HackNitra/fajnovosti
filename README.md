@@ -17,6 +17,7 @@ Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti
 
 #### Blogy a newslettery
 - [Report MD](https://substack.com/@havran)
+- [Vedátor](https://vedator.space/)
 
 
 #### Podcasty
@@ -29,7 +30,7 @@ Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti
 - [Dejepis inak](https://skpodcasty.sk/podcasty/dejepis-inak/)
 - [Michal Truban Podcast](https://skpodcasty.sk/podcasty/michal-truban-podcast/)
 - [Rozhovory MD](https://skpodcasty.sk/podcasty/rozhovory-md/)
-
+- [Vedátorský podcast](https://skpodcasty.sk/podcasty/vedatorsky-podcast/)
 
 
 #### Komunity, inštitúty, neziskovky
