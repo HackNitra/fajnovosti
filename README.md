@@ -42,6 +42,8 @@ Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti
 - [Teach for Slovakia](https://teach.sk/cim-zijeme)
 - [LEAF](https://www.leaf.sk/)
 - [Fond Otakara Motejla](https://osf.cz/category/fond-otakara-motejla/)
+- [Paralelná Polis Bratislava](https://paralelnapolis.sk/)
+- [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/)
 
 
 
