@@ -44,7 +44,7 @@ Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti
 - [Fond Otakara Motejla](https://osf.cz/category/fond-otakara-motejla/)
 - [Paralelná Polis Bratislava](https://paralelnapolis.sk/)
 - [Paralelná Polis Košice](https://www.paralelnapoliskosice.sk/)
-
+- [Slovenská Debatná Asociácia](https://linktr.ee/realSDA?fbclid=PAAaaAiNTmPuJHQyN_4z5O1EOQNbJpkf5fhZ1UvDTzxgCpKsNiao_mc3w_xZc_aem_AQyXARmABNZJwaJbxThTqWePCtVqL104GodJ1mdta6K1i3-9yGGMgtEdTx3gj79lox0)
 
 
 #### Kurzy
@@ -80,6 +80,7 @@ Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti
   - [Papers with code](https://paperswithcode.com/)
   - [Distill.pub](https://distill.pub/)
 - [HackerNews](https://news.ycombinator.com)
+- [ThePrimeagen](https://www.twitch.tv/ThePrimeagen)
 
 ### Blogs and newletters
 
@@ -101,3 +102,9 @@ Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti
 - [dbt community](https://www.getdbt.com/community)
 - [Great expectations](https://greatexpectations.io/community)
 - [Data quality camp](https://substack.com/@dataqualitycamp)
+
+
+#### Advent of Code
+- [Advent of Code 2023](https://adventofcode.com/)
+
+  
