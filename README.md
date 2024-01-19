@@ -97,8 +97,9 @@ Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti
 - [datatalks.club](https://datatalks.club/)
 
 
-## Streams
+#### Streams
 - [ThePrimeagen](https://www.twitch.tv/ThePrimeagen)
+
 
 #### Communities
 - [Locally optimistic](https://locallyoptimistic.com/community/)
