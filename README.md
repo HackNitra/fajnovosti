@@ -80,6 +80,7 @@ Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti
   - [Papers with code](https://paperswithcode.com/)
   - [Distill.pub](https://distill.pub/)
 - [HackerNews](https://news.ycombinator.com)
+- [ThePrimeagen](https://www.twitch.tv/ThePrimeagen)
 
 ### Blogs and newletters
 
