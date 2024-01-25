@@ -13,6 +13,7 @@ Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti
 #### Meetupy
 - [Better AI meetup](https://betteraimeetup.com/)
 - [Bratislava Python Meetup](https://www.meetup.com/pyconsk/) and [Pyladies BA](https://www.meetup.com/pyladies-bratislava/events/297258912/)
+- [GenAI meetup Praha](https://www.meetup.com/prague-gen-ai/)
 
 
 #### Blogy a newslettery
