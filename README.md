@@ -11,8 +11,9 @@ Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti
 ## Lokálne 🇸🇰 🇨🇿
 
 #### Meetupy
+- [UX Fórum](https://www.uxf.sk/)
 - [Better AI meetup](https://betteraimeetup.com/)
-- [Bratislava Python Meetup](https://www.meetup.com/pyconsk/) and [Pyladies BA](https://www.meetup.com/pyladies-bratislava/events/297258912/)
+- [Bratislava Python Meetup](https://www.meetup.com/pyconsk/) a [Pyladies BA](https://www.meetup.com/pyladies-bratislava/events/297258912/)
 - [GenAI meetup Praha](https://www.meetup.com/prague-gen-ai/)
 
 
@@ -38,6 +39,7 @@ Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti
 
 #### Komunity, inštitúty, neziskovky
 
+- [Startup Awards Slovensko](https://sask.sk/)
 - [Slovensko.digital](https://slovensko.digital/)
 - [Kempelenov inštitút inteligentných technológií](https://kinit.sk/sk)
 - [Teach for Slovakia](https://teach.sk/cim-zijeme)
@@ -51,6 +53,7 @@ Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti
 #### Kurzy
 
 - [Elements of AI](https://www.elementsofai.sk/)
+- [Learn prompting](https://learnprompting.org/)
 
 #### Hackathony
 
@@ -59,12 +62,18 @@ Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti
 - [Hacknime.to](https://www.hacknime.to/)
 - [HackPrague](https://www.facebook.com/hackprague)
 
-#### Startupy 
+#### Startupy
+- [BinarBase](https://www.binarbase.com/)
+- [Sensible Biotechnologies](https://www.sensible.bio/)
+- [TrollWall AI](https://trollwall.ai/)
+- [TruCrowd](https://trucrowd.tech/)
 - [Deepnote](https://deepnote.com)
 - [BetterStack](https://betterstack.com)
 - [Simplicity](https://onesimplicity.com/)
 - [Assetario](https://www.assetario.com)
 - [Powerful medical](https://www.powerfulmedical.com)
+- [Upheal](https://www.upheal.io/)
+- [SASK alumni](https://sask.sk/alumni) a [finalisti SASK 2024](https://sask.sk/finale-2024)
 
 #### "Exitnuté" startupy
 - [Trustmatic](https://www.startitup.sk/z-bratislavy-do-sveta-slovaci-prerazili-s-ich-projektom-na-odhalovanie-kradnutia-a-falsovania-totoznosti-ludi/)
@@ -92,6 +101,7 @@ Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti
 
 
 #### Podcasts
+- [Benn Stancil substack](https://benn.substack.com/)
 - [Lenny's podcast](https://www.lennyspodcast.com/)
 - [Reforge podcast](https://www.reforge.com/podcast/unsolicited-feedback)
 - [Naked Data science](https://www.nds.show/)
@@ -102,7 +112,7 @@ Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti
 - [ThePrimeagen](https://www.twitch.tv/ThePrimeagen)
 
 
-#### Communities
+#### Data Communities
 - [Locally optimistic](https://locallyoptimistic.com/community/)
 - [dbt community](https://www.getdbt.com/community)
 - [Great expectations](https://greatexpectations.io/community)
@@ -110,6 +120,6 @@ Nápady na ďalšie fajnovosti [vítame](https://github.com/HackNitra/fajnovosti
 
 
 #### Advent of Code
-- [Advent of Code 2023](https://adventofcode.com/)
+- [Advent of Code 2024](https://adventofcode.com/)
 
   
